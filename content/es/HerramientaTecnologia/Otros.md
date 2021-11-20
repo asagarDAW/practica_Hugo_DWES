@@ -56,6 +56,7 @@ JSP es similar a PHP, pero usa el lenguaje de programación Java
 # TYPESCRIPT
 {{% expand "¿Qué es Typescript?" "false" %}}
 TypeScript es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft. Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases.
+
 [web oficial typescript](https://www.typescriptlang.org/)
 {{% /expand %}}
 
@@ -64,3 +65,33 @@ TypeScript es un lenguaje de programación libre y de código abierto desarrolla
 >Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.
 >
 >[web oficial Angular](https://angular.io/)
+
+*********
+
+# RUBY
+{{% expand "¿Qué es Ruby?" "false" %}}
+El lenguaje Ruby se utiliza principalmente en el desarrollo de aplicaciones web, pero también se puede utilizar para desarrollar otro tipo de aplicaciones de software, como veremos más adelante. Este lenguaje está disponible en plataformas como Windows, Linux y muchas otras, considerándose multiplataforma.
+
+[web oficial Ruby](https://www.ruby-lang.org/es/)
+{{% /expand %}}
+
+
+### JEKYLL
+>Jekyll es un generador simple para sitios web estáticos con capacidades de blog; adecuado para sitios web personales, de proyecto o de organizaciones. >Fue escrito en lenguaje de 
+>programación Ruby por Tom Preston-Werner, el cofundador de GitHub, y se distribuye bajo la licencia de Código abierto MIT 
+>
+>[web oficial Jekyll](https://jekyllrb.com/)
+
+*************
+
+# GO
+{{% expand "¿Qué es Go?" "false" %}}
+Go es un lenguaje de programación concurrente y compilado inspirado en la sintaxis de C, que intenta ser dinámico como Python y con el rendimiento de C o C++. Ha sido desarrollado por Google​ y sus diseñadores iniciales fueron Robert Griesemer, Rob Pike y Ken Thompson.
+
+[web oficial Go](https://golang.org/)
+{{% /expand %}}
+
+### HUGO
+>Hugo es un generador de archivos Web estáticos escrito en Go y aunque hay otras herramientas con esta misma utilidad, con Hugo encontrarás muchos >temas desarrollados por la comunidad, es fácil de configurar y los artículos que escribas son fácilmente exportables de un tema a otro.
+>
+>[web oficial Hugo](https://gohugo.io/)
