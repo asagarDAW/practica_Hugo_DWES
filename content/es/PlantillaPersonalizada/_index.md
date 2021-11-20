@@ -7,3 +7,5 @@ weight = 6
 
 ### PLANTILLA PERSONALIZADA
 ****
+### Indice
+{{% children  %}}

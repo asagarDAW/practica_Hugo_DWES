@@ -2,7 +2,7 @@
 title: "Otros"
 date: 2021-11-20T20:30:23+01:00
 draft: false
-weight: 3
+weight: 4
 ---
 ******
 # PYTHON
