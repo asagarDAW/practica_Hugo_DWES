@@ -1,12 +1,12 @@
 +++
 chapter = true
-pre = "<b>X. </b>"
+pre = "<b>8. </b>"
 title = "ClienteServidor"
-weight = 5
+weight = 8
 +++
 
-### Chapter X
+# PROCESO COMUNICACIÓN CLIENTE/SERVIDOR
 
-# Some Chapter title
 
-Lorem Ipsum.
+### Indice
+{{% children  %}}
