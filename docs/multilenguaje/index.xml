@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multilenguaje on Español</title>
+    <link>https://asagardaw.github.io/practica_Hugo_DES/multilenguaje/</link>
+    <description>Recent content in Multilenguaje on Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 16:45:04 +0100</lastBuildDate><atom:link href="https://asagardaw.github.io/practica_Hugo_DES/multilenguaje/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traducción</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DES/multilenguaje/traducci%C3%B3n/</link>
+      <pubDate>Sat, 20 Nov 2021 16:45:04 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DES/multilenguaje/traducci%C3%B3n/</guid>
+      <description>Ejemplo de uso de web multilenguaje Marie-Georges-Jean Méliès (8 de diciembre de 1861 - 21 de enero de 1938) fue un ilusionista, actor y director de cine francés que dirigió muchos desarrollos técnicos y narrativos en los primeros días del cine. Méliès era bien conocido por el uso de efectos especiales, popularizando técnicas tales como empalmes de sustitución, exposiciones múltiples, fotografía time-lapse, se disuelve, y el color pintado a mano.</description>
+    </item>
+  </channel>
+</rss>

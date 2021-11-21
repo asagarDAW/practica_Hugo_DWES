@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.89.4" />
+    <meta name="description" content="">
+    
+<link rel="icon" href="/practica_Hugo_DES/images/logo.png?1637453228" type="image/png">
+    <title>Javascript :: English</title>
+    <link href="/practica_Hugo_DES/css/nucleus.css?1637453228" rel="stylesheet">
+    <link href="/practica_Hugo_DES/css/fontawesome-all.min.css?1637453228" rel="stylesheet">
+    <link href="/practica_Hugo_DES/css/featherlight.min.css?1637453228" rel="stylesheet">
+    <link href="/practica_Hugo_DES/css/perfect-scrollbar.min.css?1637453228" rel="stylesheet">
+    <link href="/practica_Hugo_DES/css/auto-complete.css?1637453228" rel="stylesheet">
+    <link href="/practica_Hugo_DES/css/theme.css?1637453228" rel="stylesheet">
+    <link href="/practica_Hugo_DES/css/theme-dws.css?1637453228" rel="stylesheet">
+    <link href="/practica_Hugo_DES/css/variant.css?1637453228" rel="stylesheet">
+    <link href="/practica_Hugo_DES/css/print.css?1637453228" rel="stylesheet" media="print">
+    <script src="/practica_Hugo_DES/js/jquery.min.js?1637453228"></script>
+    <style>
+      :root #header + #content > #left > #rlblock_left{
+        display:none !important;
+      }
+    </style>
+  </head>
+  <body class="" data-url="/practica_Hugo_DES/en/herramientatecnologia/javascript/">
+    <script>
+      var index_url="/practica_Hugo_DES/en/index.json";
+      var root_url="/";
+      var baseUri=root_url.replace(/\/$/, '');
+    </script>
+    <nav id="sidebar" class="">
+      <div id="header-wrapper">
+        <div id="header">
+          <a id="logo"
+            href="https://github.com/asagarDAW"
+            style="
+              color: #3d414d;
+              font-family: 'Work Sans', 'Helvetica', 'Tahoma', 'Geneva', 'Arial', sans-serif;
+              font-size: 30px;
+              font-weight: 300;
+              margin-top: -2px;
+              text-transform: uppercase;
+            ">
+            <img src="/images/logo.png" alt="imagen del logo">
+            <b>DWES-HUGO</b>
+          </a>
+        </div>
+        <div class="searchbox">
+          <label for="search-by"><i class="fas fa-search"></i></label>
+          <input data-search-input id="search-by" type="search" placeholder="Search...">
+          <span data-search-clear=""><i class="fas fa-times"></i></span>
+        </div>
+        <script src="/practica_Hugo_DES/js/lunr.min.js?1637453228"></script>
+        <script src="/practica_Hugo_DES/js/auto-complete.js?1637453228"></script>
+        <!-- hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic: -->
+        <!-- https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72 -->
+        <script src="/practica_Hugo_DES/js/search.js?1637453228"></script>
+      </div>
+      <div class="highlightable">
+        <ul class="topics">
+          <li data-nav-id="/practica_Hugo_DES/en/introducci%C3%B3n/" title="Introducción" class="dd-item"><a href="/practica_Hugo_DES/en/introducci%C3%B3n/"><b>1. </b>Introducción</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/introducci%C3%B3n/conceptos_generales/" title="Conceptos generales" class="dd-item"><a href="/practica_Hugo_DES/en/introducci%C3%B3n/conceptos_generales/">1.1. Conceptos generales</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/introducci%C3%B3n/arquitectura_web/" title="Arquitectura web" class="dd-item"><a href="/practica_Hugo_DES/en/introducci%C3%B3n/arquitectura_web/">1.2. Arquitectura web</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/introducci%C3%B3n/instalaci%C3%B3n/" title="Instalación" class="dd-item"><a href="/practica_Hugo_DES/en/introducci%C3%B3n/instalaci%C3%B3n/">1.3. Instalación</a></li></ul></li>
+          <li data-nav-id="/practica_Hugo_DES/en/static/" title="Static" class="dd-item"><a href="/practica_Hugo_DES/en/static/"><b>2. </b>Static</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/static/teor%C3%ADa/" title="Teoría" class="dd-item alwaysopen"><a href="/practica_Hugo_DES/en/static/teor%C3%ADa/">2.1.Teoría</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/static/teor%C3%ADa/instalaci%C3%B3n/" title="Instalación" class="dd-item"><a href="/practica_Hugo_DES/en/static/teor%C3%ADa/instalaci%C3%B3n/">2.1.1. Instalación</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/static/teor%C3%ADa/temas/" title="Temas" class="dd-item"><a href="/practica_Hugo_DES/en/static/teor%C3%ADa/temas/">2.1.2. Temas</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/static/teor%C3%ADa/contenido/" title="Contenido" class="dd-item"><a href="/practica_Hugo_DES/en/static/teor%C3%ADa/contenido/">2.1.3. Contenido</a></li></ul></li>
+          <li data-nav-id="/practica_Hugo_DES/en/static/pr%C3%A1ctica/" title="Práctica" class="dd-item alwaysopen"><a href="/practica_Hugo_DES/en/static/pr%C3%A1ctica/">2.2.Práctica</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/static/pr%C3%A1ctica/practica1/" title="Practica 1" class="dd-item"><a href="/practica_Hugo_DES/en/static/pr%C3%A1ctica/practica1/">2.2.1. Practica 1</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/static/pr%C3%A1ctica/practica2/" title="Practica 2" class="dd-item"><a href="/practica_Hugo_DES/en/static/pr%C3%A1ctica/practica2/">2.2.2. Practica 2</a></li></ul></li></ul></li>
+          <li data-nav-id="/practica_Hugo_DES/en/php/" title="PHP" class="dd-item"><a href="/practica_Hugo_DES/en/php/"><b>3. </b>PHP</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/php/sintaxis/" title="Sintaxis" class="dd-item"><a href="/practica_Hugo_DES/en/php/sintaxis/">3.1. Sintaxis</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/php/arrays_formularios/" title="Arrays Formularios" class="dd-item"><a href="/practica_Hugo_DES/en/php/arrays_formularios/">3.2. Arrays Formularios</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/php/arrays_oop/" title="OOP" class="dd-item"><a href="/practica_Hugo_DES/en/php/arrays_oop/">3.3. OOP</a></li></ul></li>
+          <li data-nav-id="/practica_Hugo_DES/en/shortcode/" title="Shortcode" class="dd-item"><a href="/practica_Hugo_DES/en/shortcode/"><b>4. </b>Shortcode</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/shortcode/descargas/" title="Plantillas" class="dd-item"><a href="/practica_Hugo_DES/en/shortcode/descargas/">Plantillas</a></li></ul></li>
+          <li data-nav-id="/practica_Hugo_DES/en/multilenguaje/" title="Multilanguage" class="dd-item"><a href="/practica_Hugo_DES/en/multilenguaje/"><b>5. </b>Multilanguage</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/multilenguaje/traducci%C3%B3n/" title="Translation" class="dd-item"><a href="/practica_Hugo_DES/en/multilenguaje/traducci%C3%B3n/">Translation</a></li></ul></li>
+          <li data-nav-id="/practica_Hugo_DES/en/plantillapersonalizada/" title="Plantilla Personalizada" class="dd-item"><a href="/practica_Hugo_DES/en/plantillapersonalizada/"><b>6. </b>Plantilla Personalizada</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/plantillapersonalizada/ejemploplantilla/" title="Mi Plantilla" class="dd-item"><a href="/practica_Hugo_DES/en/plantillapersonalizada/ejemploplantilla/">Mi Plantilla</a></li></ul></li>
+          <li data-nav-id="/practica_Hugo_DES/en/cargadatos/" title="Carga de datos" class="dd-item"><a href="/practica_Hugo_DES/en/cargadatos/"><b>7. </b>Carga de datos</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/cargadatos/canales/" title="Canales" class="dd-item"><a href="/practica_Hugo_DES/en/cargadatos/canales/">Canales</a></li></ul></li>
+          <li data-nav-id="/practica_Hugo_DES/en/clienteservidor/" title="Cliente-Servidor" class="dd-item"><a href="/practica_Hugo_DES/en/clienteservidor/"><b>8. </b>Cliente-Servidor</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/clienteservidor/cargaweb/" title="Comunicación Cliente-Servidor" class="dd-item"><a href="/practica_Hugo_DES/en/clienteservidor/cargaweb/">Comunicación Cliente-Servidor</a></li></ul></li>
+          <li data-nav-id="/practica_Hugo_DES/en/herramientatecnologia/" title="Herramientas y Tecnologias" class="dd-item parent"><a href="/practica_Hugo_DES/en/herramientatecnologia/"><b>9. </b>Herramientas y Tecnologias</a><ul>
+          <li data-nav-id="/practica_Hugo_DES/en/herramientatecnologia/javascript/" title="Javascript" class="dd-item active"><a href="/practica_Hugo_DES/en/herramientatecnologia/javascript/">Javascript</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/herramientatecnologia/php/" title="PHP" class="dd-item"><a href="/practica_Hugo_DES/en/herramientatecnologia/php/">PHP</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/herramientatecnologia/testing/" title="Herramientas de Testing" class="dd-item"><a href="/practica_Hugo_DES/en/herramientatecnologia/testing/">Herramientas de Testing</a></li>
+          <li data-nav-id="/practica_Hugo_DES/en/herramientatecnologia/otros/" title="Otros" class="dd-item"><a href="/practica_Hugo_DES/en/herramientatecnologia/otros/">Otros</a></li></ul></li>
+        </ul>
+        <div id="shortcuts">
+          <div class="nav-title">More</div>
+          <ul>
+            <li><a class="padding" href="https://github.com/McShelby/hugo-theme-relearn"><i class='fab fa-fw fa-github'></i> GitHub repository</a></li>
+            <li><a class="padding" href="/practica_Hugo_DES/en/practica_Hugo_DES/showcase/"><i class='far fa-images'></i> Showcases</a></li>
+            <li><a class="padding" href="https://gohugo.io/"><i class='fas fa-book'></i> Hugo Documentation</a></li>
+            <li><a class="padding" href="/practica_Hugo_DES/en/practica_Hugo_DES/credits/"><i class='fas fa-star-of-life'></i> Credits</a></li>
+            <li><a class="padding" href="/practica_Hugo_DES/en/practica_Hugo_DES/tags/"><i class='far fa-address-book'></i> Address Book</a></li>
+          </ul>
+        </div>
+        <div id="prefooter">
+          <hr/>
+          <ul>
+            <li>
+              <a class="padding">
+                <i class="fas fa-language fa-fw"></i>
+                <div class="select-style">
+                  <select id="select-language" onchange="location = baseUri + this.value;">
+                    <option id="es" value="/practica_Hugo_DES/herramientatecnologia/javascript/">Español</option>
+                    <option id="en" value="/practica_Hugo_DES/en/herramientatecnologia/javascript/" selected>English</option>
+                    <option id="fr" value="/practica_Hugo_DES/fr/herramientatecnologia/javascript/">Français</option>
+                  </select>
+                  <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                    width="255px" height="255px" viewBox="0 0 255 255" style="enable-background:new 0 0 255 255;" xml:space="preserve">
+                    <g>
+                      <g id="arrow-drop-down">
+                        <polygon points="0,63.75 127.5,191.25 255,63.75" />
+                      </g>
+                    </g>
+                  </svg>
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div id="footer">
+	    <p><a href="https://github.com/McShelby/hugo-theme-relearn"><i class="far fa-eye"></i> Relearn theme por Ana Sanz <i class="far fa-eye"></i></a></p>
+        </div>
+      </div>
+    </nav>
+    <div id="body">
+      <div id="overlay"></div>
+      <div class="padding highlightable">
+        <div id="top-bar">
+          <div id="breadcrumbs">
+            <span id="sidebar-toggle-span">
+              <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                <i class="fas fa-bars"></i>
+              </a>
+            </span>
+            <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+            <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
+              <meta itemprop="itemListOrder" content="Descending" />
+                <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="3" /><a itemprop="item" href="/practica_Hugo_DES/en/"><span itemprop="name">English</span></a> > </li>
+                <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="2" /><a itemprop="item" href="/practica_Hugo_DES/en/herramientatecnologia/"><span itemprop="name">Herramientas y Tecnologias</span></a> > </li>
+                <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="/practica_Hugo_DES/en/herramientatecnologia/javascript/" aria-disabled="true"><span itemprop="name">Javascript</span></a></li>
+            </ol>
+          </div>
+            <div class="progress">
+              <div class="wrapper">
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#frameworks">Frameworks</a></li>
+        <li><a href="#bibliotecas">Bibliotecas</a></li>
+        <li><a href="#técnica">Técnica</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+              </div>
+            </div>
+        </div>
+        <div id="head-tags">
+        </div>
+        <main id="body-inner">
+          <h1>Javascript</h1>
+
+<hr>
+
+<div class="expand">
+    
+    <a class="expand-label" onclick="$t=$(this); if($t.parent('.expand-expanded.expand-marked').length){ $t.next().css('display','none') }else if($t.parent('.expand-marked').length){ $t.next().css('display','block') }else{ $t.next('.expand-content').slideToggle(100); } $t.parent().toggleClass('expand-expanded');">
+        <i class="fas fa-chevron-down"></i>
+        <i class="fas fa-chevron-right"></i>
+        ¿Qué es Javascript?
+    </a>
+    <div class="expand-content" style="display: none;">
+        <p>JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.</p>
+<p><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">web oficial Javascipt</a></p>
+
+    </div>
+</div>
+<h3 id="frameworks">Frameworks</h3>
+
+<div class="tab-panel">
+  <div class="tab-nav">
+    <button
+      data-tab-item="Babel"
+      data-tab-group="default"
+      class="tab-nav-button btn active"
+      onclick="switchTab('default','Babel')"
+      ><span>Babel</span></button>
+    <button
+      data-tab-item="Webpack"
+      data-tab-group="default"
+      class="tab-nav-button btn "
+      onclick="switchTab('default','Webpack')"
+      ><span>Webpack</span></button>
+    <button
+      data-tab-item="Css Bootstrap"
+      data-tab-group="default"
+      class="tab-nav-button btn "
+      onclick="switchTab('default','Css Bootstrap')"
+      ><span>Css Bootstrap</span></button>
+    <button
+      data-tab-item="Vue"
+      data-tab-group="default"
+      class="tab-nav-button btn "
+      onclick="switchTab('default','Vue')"
+      ><span>Vue</span></button>
+    <button
+      data-tab-item="Vuepress"
+      data-tab-group="default"
+      class="tab-nav-button btn "
+      onclick="switchTab('default','Vuepress')"
+      ><span>Vuepress</span></button>
+    <button
+      data-tab-item="Gatsby"
+      data-tab-group="default"
+      class="tab-nav-button btn "
+      onclick="switchTab('default','Gatsby')"
+      ><span>Gatsby</span></button>
+  </div>
+  <div class="tab-content">
+    <div data-tab-item="Babel" data-tab-group="default" class="tab-item active">
+<h3 id="babel">Babel</h3>
+<blockquote>
+<p>Babel es un transcompilador de JavaScript gratuito y de código abierto que se utiliza principalmente para convertir el código ECMAScript 2015+ en una versión de JavaScript compatible con versiones anteriores que puede ser ejecutada por motores JavaScript más antiguos.</p>
+</blockquote>
+<p><a href="https://babeljs.io/">web oficial Babel</a></p>
+
+    </div>
+    <div data-tab-item="Webpack" data-tab-group="default" class="tab-item ">
+<h3 id="webpack">Webpack</h3>
+<blockquote>
+<p>Webpack es un paquete de módulos de JavaScript de código abierto. Está hecho principalmente para JavaScript,1​2​3​4​5​ pero puede transformar activos de front-end como HTML, CSS e imágenes si se incluyen los loaders correspondientes.
+webpack toma módulos con dependencias y genera archivos estáticos que representan esos módulos.</p>
+</blockquote>
+<p><a href="https://webpack.js.org/">web oficial Webpack</a></p>
+
+    </div>
+    <div data-tab-item="Css Bootstrap" data-tab-group="default" class="tab-item ">
+<h3 id="css-bootstrap">Css Bootstrap</h3>
+<blockquote>
+<p>Bootstrap es una biblioteca multiplataforma o conjunto de herramientas de código abierto para diseño de sitios y aplicaciones web. Contiene plantillas de diseño con tipografía, formularios, botones,
+cuadros, menús de navegación y otros elementos de diseño basado en HTML y CSS, así como extensiones de JavaScript adicionales. A diferencia de muchos frameworks web, solo se ocupa del desarrollo front-end.</p>
+</blockquote>
+<p><a href="https://getbootstrap.com/">web oficial Bootstrap</a></p>
+
+    </div>
+    <div data-tab-item="Vue" data-tab-group="default" class="tab-item ">
+<h3 id="vue">Vue</h3>
+<blockquote>
+<p>Vue.js es un framework de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones de una sola página. Fue creado por Evan You, y es mantenido por él y por el resto de los miembros activos del equipo central que provienen de diversas empresas como Netlify y Netguru.</p>
+</blockquote>
+<p><a href="https://vuejs.org/">web oficial Vue</a></p>
+
+    </div>
+    <div data-tab-item="Vuepress" data-tab-group="default" class="tab-item ">
+<h3 id="vuepress">Vuepress</h3>
+<blockquote>
+<p>VuePress es un generador de sitios estáticos desarrollado por Evan You, el creador de Vue. js, originalmente pensado para escribir la documentación de los propios proyectos de Vue. Un sitio en VuePress es en realidad una SPA (Single-Page Application) que utiliza Vue, Vue Router y webpack como base.</p>
+</blockquote>
+<p><a href="https://vuepress.vuejs.org/">web oficial Vuepress</a></p>
+
+    </div>
+    <div data-tab-item="Gatsby" data-tab-group="default" class="tab-item ">
+<h3 id="gatsby">Gatsby</h3>
+<blockquote>
+<p>Gatsby es un framework para crear aplicaciones y sitios web basado en React. Gatsby promueve lo que conocemos como el JAMStack, por lo que tiene las siguientes características:</p>
+<ol>
+<li>La lógica y funcionalidad está en el cliente, se programa con JavaScript y React.</li>
+<li>Usamos APIs para consumir datos, particularmente Gatsby viene integrado con un servidor de graphql. Puedes usar cualquier fuente de datos, un servicio web en internet, un archivo JSON, un archivo markdown, etc.</li>
+<li>Precompila el marcado, por lo que no tenemos routing dinámico, conexión a bases de datos u otras características propias de frameworks tradicionales como Rails, Django o Laravel. De nuevo, la funcionalidad está en el cliente</li>
+</ol>
+</blockquote>
+<p><a href="https://www.gatsbyjs.com/">web oficial Gatsby</a></p>
+
+    </div>
+  </div>
+</div>
+
+<hr>
+<h3 id="bibliotecas">Bibliotecas</h3>
+
+<div class="tab-panel">
+  <div class="tab-nav">
+    <button
+      data-tab-item="jQuery"
+      data-tab-group="default"
+      class="tab-nav-button btn active"
+      onclick="switchTab('default','jQuery')"
+      ><span>jQuery</span></button>
+    <button
+      data-tab-item="React"
+      data-tab-group="default"
+      class="tab-nav-button btn "
+      onclick="switchTab('default','React')"
+      ><span>React</span></button>
+  </div>
+  <div class="tab-content">
+    <div data-tab-item="jQuery" data-tab-group="default" class="tab-item active">
+<h3 id="jquery">jQuery</h3>
+<blockquote>
+<p>jQuery es una biblioteca multiplataforma de JavaScript, creada inicialmente por John Resig, que permite simplificar la manera de interactuar con los documentos HTML, manipular el árbol DOM, manejar eventos,
+desarrollar animaciones y agregar interacción con la técnica AJAX a páginas web.​</p>
+</blockquote>
+<p><a href="https://jquery.com/">web oficial jQuery</a></p>
+
+    </div>
+    <div data-tab-item="React" data-tab-group="default" class="tab-item ">
+<h3 id="react">React</h3>
+<blockquote>
+<p>React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y
+la comunidad de software libre. En el proyecto hay más de mil desarrolladores libres.</p>
+</blockquote>
+<p><a href="https://es.reactjs.org/">web oficial React</a></p>
+
+    </div>
+  </div>
+</div>
+
+<hr>
+<h3 id="técnica">Técnica</h3>
+
+<div class="tab-panel">
+  <div class="tab-nav">
+    <button
+      data-tab-item="Scraping"
+      data-tab-group="default"
+      class="tab-nav-button btn active"
+      onclick="switchTab('default','Scraping')"
+      ><span>Scraping</span></button>
+  </div>
+  <div class="tab-content">
+    <div data-tab-item="Scraping" data-tab-group="default" class="tab-item active">
+<h3 id="scraping">Scraping</h3>
+<blockquote>
+<p>Web scraping o raspado web, es una técnica utilizada mediante programas de software para extraer información de sitios web.1​ Usualmente, estos programas simulan la navegación de un humano en l
+a World Wide Web ya sea utilizando el protocolo HTTP manualmente, o incrustando un navegador en una aplicación.</p>
+</blockquote>
+<p><a href="https://es.wikipedia.org/wiki/Web_scraping">más sobre scraping</a></p>
+
+    </div>
+  </div>
+</div>
+
+
+          <footer class="footline">
+          </footer>
+        </main>
+      </div>
+      <div id="navigation">
+        <a class="nav nav-prev" href="/practica_Hugo_DES/en/herramientatecnologia/" title="Herramientas y Tecnologias"><i class="fa fa-chevron-left"></i></a>
+        <a class="nav nav-next" href="/practica_Hugo_DES/en/herramientatecnologia/php/" title="PHP"><i class="fa fa-chevron-right"></i></a>
+      </div>
+    </div>
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/practica_Hugo_DES/js/clipboard.min.js?1637453228"></script>
+    <script src="/practica_Hugo_DES/js/perfect-scrollbar.min.js?1637453228"></script>
+    <script src="/practica_Hugo_DES/js/perfect-scrollbar.jquery.min.js?1637453228"></script>
+    <script src="/practica_Hugo_DES/js/jquery.svg.pan.zoom.js?1637453228"></script>
+    <script src="/practica_Hugo_DES/js/featherlight.min.js?1637453228"></script>
+    <script src="/practica_Hugo_DES/js/modernizr.custom-3.6.0.js?1637453228"></script>
+    <script src="/practica_Hugo_DES/js/mermaid.min.js?1637453228"></script>
+    <script>
+      if (typeof mermaid != 'undefined' && typeof mermaid.mermaidAPI != 'undefined') {
+        mermaid.mermaidAPI.initialize( Object.assign( { "securityLevel": "antiscript" }, JSON.parse("{ \"startOnLoad\": true }"), { startOnLoad: false } ) );
+      }
+    </script>
+    <script src="/practica_Hugo_DES/js/relearn.js?1637453228"></script>
+  </body>
+</html>

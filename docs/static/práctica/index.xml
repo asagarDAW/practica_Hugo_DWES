@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Práctica on Español</title>
+    <link>https://asagardaw.github.io/practica_Hugo_DES/static/pr%C3%A1ctica/</link>
+    <description>Recent content in Práctica on Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 13:36:11 +0100</lastBuildDate><atom:link href="https://asagardaw.github.io/practica_Hugo_DES/static/pr%C3%A1ctica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practica 1</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DES/static/pr%C3%A1ctica/practica1/</link>
+      <pubDate>Sat, 20 Nov 2021 13:36:07 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DES/static/pr%C3%A1ctica/practica1/</guid>
+      <description> 2.2.1 Práctica 1 </description>
+    </item>
+    <item>
+      <title>Practica 2</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DES/static/pr%C3%A1ctica/practica2/</link>
+      <pubDate>Sat, 20 Nov 2021 13:36:11 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DES/static/pr%C3%A1ctica/practica2/</guid>
+      <description> 2.2.2 Práctica 2 </description>
+    </item>
+  </channel>
+</rss>

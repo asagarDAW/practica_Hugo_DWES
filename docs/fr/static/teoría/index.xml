@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teoría on Français</title>
+    <link>https://asagardaw.github.io/practica_Hugo_DES/fr/static/teor%C3%ADa/</link>
+    <description>Recent content in Teoría on Français</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 13:29:29 +0100</lastBuildDate><atom:link href="https://asagardaw.github.io/practica_Hugo_DES/fr/static/teor%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalación</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DES/fr/static/teor%C3%ADa/instalaci%C3%B3n/</link>
+      <pubDate>Sat, 20 Nov 2021 13:28:54 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DES/fr/static/teor%C3%ADa/instalaci%C3%B3n/</guid>
+      <description> 2.1.1 Instalación </description>
+    </item>
+    <item>
+      <title>Temas</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DES/fr/static/teor%C3%ADa/temas/</link>
+      <pubDate>Sat, 20 Nov 2021 13:29:19 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DES/fr/static/teor%C3%ADa/temas/</guid>
+      <description> 2.1.2 Temas </description>
+    </item>
+    <item>
+      <title>Contenido</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DES/fr/static/teor%C3%ADa/contenido/</link>
+      <pubDate>Sat, 20 Nov 2021 13:29:29 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DES/fr/static/teor%C3%ADa/contenido/</guid>
+      <description> 2.1.3 Contenido </description>
+    </item>
+  </channel>
+</rss>
