@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
-#baseURL = 'https://asagardaw.github.io/ejemplo_Hugo_DES'
+#baseURL = 'http://example.org/'
+baseURL = 'https://asagardaw.github.io/practica_Hugo_DES'
 languageCode = 'en-us'
 title = 'DWES - PRACTICA TEMA 1'
 theme = ['hugo-theme-relearn']
