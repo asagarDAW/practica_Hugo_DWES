@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP on Español</title>
+    <link>https://asagardaw.github.io/practica_Hugo_DWES/php/</link>
+    <description>Recent content in PHP on Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 13:40:03 +0100</lastBuildDate><atom:link href="https://asagardaw.github.io/practica_Hugo_DWES/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sintaxis</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DWES/php/sintaxis/</link>
+      <pubDate>Sat, 20 Nov 2021 13:39:43 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DWES/php/sintaxis/</guid>
+      <description> 3.1. Sintaxis </description>
+    </item>
+    <item>
+      <title>Arrays Formularios</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DWES/php/arrays_formularios/</link>
+      <pubDate>Sat, 20 Nov 2021 13:39:55 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DWES/php/arrays_formularios/</guid>
+      <description> 3.2. Arrays de formularios </description>
+    </item>
+    <item>
+      <title>OOP</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DWES/php/arrays_oop/</link>
+      <pubDate>Sat, 20 Nov 2021 13:40:03 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DWES/php/arrays_oop/</guid>
+      <description> 3.3. OOP </description>
+    </item>
+  </channel>
+</rss>
