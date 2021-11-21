@@ -1,74 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Español</title>
-    <link>https://asagardaw.github.io/practica_Hugo_DES/</link>
-    <description>Recent content on Español</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 20 Nov 2021 22:28:13 +0100</lastBuildDate><atom:link href="https://asagardaw.github.io/practica_Hugo_DES/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introducción</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/introducci%C3%B3n/</link>
-      <pubDate>Sat, 20 Nov 2021 13:14:20 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/introducci%C3%B3n/</guid>
-      <description>INTRODUCCIÓN Indice Conceptos generalesArquitectura webInstalación </description>
-    </item>
-    <item>
-      <title>Static</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/static/</link>
-      <pubDate>Sat, 20 Nov 2021 13:36:11 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/static/</guid>
-      <description>STATIC Indice TeoríaPráctica </description>
-    </item>
-    <item>
-      <title>PHP</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/php/</link>
-      <pubDate>Sat, 20 Nov 2021 13:40:03 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/php/</guid>
-      <description>PHP Indice SintaxisArrays FormulariosOOP </description>
-    </item>
-    <item>
-      <title>Shortcode</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/shortcode/</link>
-      <pubDate>Sat, 20 Nov 2021 13:54:16 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/shortcode/</guid>
-      <description>SHORTCODE Indice Plantillas </description>
-    </item>
-    <item>
-      <title>Multilenguaje</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/multilenguaje/</link>
-      <pubDate>Sat, 20 Nov 2021 16:45:04 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/multilenguaje/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Plantilla Personalizada</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/plantillapersonalizada/</link>
-      <pubDate>Sat, 20 Nov 2021 17:20:17 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/plantillapersonalizada/</guid>
-      <description>PLANTILLA PERSONALIZADA  Indice Mi Plantilla </description>
-    </item>
-    <item>
-      <title>Carga de datos</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/cargadatos/</link>
-      <pubDate>Sat, 20 Nov 2021 17:55:24 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/cargadatos/</guid>
-      <description>CARGA DE DATOS  </description>
-    </item>
-    <item>
-      <title>Cliente-Servidor</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/clienteservidor/</link>
-      <pubDate>Sat, 20 Nov 2021 22:28:13 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/clienteservidor/</guid>
-      <description>PROCESO COMUNICACIÓN CLIENTE/SERVIDOR Indice Comunicación Cliente-Servidor </description>
-    </item>
-    <item>
-      <title>Herramientas y Tecnologias</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/herramientatecnologia/</link>
-      <pubDate>Sat, 20 Nov 2021 21:56:58 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/herramientatecnologia/</guid>
-      <description>HERRAMIENTAS Y TECNOLOGÍAS Indice JavascriptPHPHerramientas de TestingOtros </description>
-    </item>
-  </channel>
-</rss>

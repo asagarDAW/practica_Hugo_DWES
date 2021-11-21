@@ -1,47 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Herramientas y Tecnologias on Français</title>
-    <link>https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/</link>
-    <description>Recent content in Herramientas y Tecnologias on Français</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 20 Nov 2021 21:56:58 +0100</lastBuildDate><atom:link href="https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Javascript</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/javascript/</link>
-      <pubDate>Sat, 20 Nov 2021 18:30:12 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/javascript/</guid>
-      <description>¿Qué es Javascript?JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.
-web oficial Javascipt
- Frameworks BabelWebpackCss BootstrapVueVuepressGatsbyBabel  Babel es un transcompilador de JavaScript gratuito y de código abierto que se utiliza principalmente para convertir el código ECMAScript 2015+ en una versión de JavaScript compatible con versiones anteriores que puede ser ejecutada por motores JavaScript más antiguos.</description>
-    </item>
-    <item>
-      <title>PHP</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/php/</link>
-      <pubDate>Sat, 20 Nov 2021 20:22:53 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/php/</guid>
-      <description>¿Qué es PHP?PHP (acrónimo recursivo de PHP: Hypertext Preprocessor ) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
-web oficial PHP
- Frameworks LaravelCodeigniterSymfonyLaravel  Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8. Su filosofía es desarrollar código PHP de forma elegante y simple, evitando el &amp;ldquo;código espagueti&amp;rdquo;.</description>
-    </item>
-    <item>
-      <title>Herramientas de Testing</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/testing/</link>
-      <pubDate>Sat, 20 Nov 2021 21:56:58 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/testing/</guid>
-      <description>CYPRESS ¿Qué es Cypress?Cypress es un framework de testing moderno y todo en uno. Es rápido, fácil de usar y permite ejecutar pruebas sobre cualquier aplicación web. En poco más de 2 años desde su lanzamiento de la versión 1.0.0 se ha convertido en una de las herramientas más populares de testing.
-web oficial Cypress
- ¿Por qué Cypress? Sencillez de instalación npm install cypress</description>
-    </item>
-    <item>
-      <title>Otros</title>
-      <link>https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/otros/</link>
-      <pubDate>Sat, 20 Nov 2021 20:30:23 +0100</pubDate>
-      <guid>https://asagardaw.github.io/practica_Hugo_DES/fr/herramientatecnologia/otros/</guid>
-      <description>PYTHON ¿Qué es Python?Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.​ Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional.
-web oficial Python
- Frameworks DjangoPelicanDjango  Django es un framework de desarrollo web de código abierto, escrito en Python, que respeta el patrón de diseño conocido como modelo–vista–controlador.</description>
-    </item>
-  </channel>
-</rss>
