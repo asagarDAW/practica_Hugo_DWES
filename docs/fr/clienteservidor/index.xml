@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cliente-Servidor on Français</title>
+    <link>https://asagardaw.github.io/practica_Hugo_DWES/fr/clienteservidor/</link>
+    <description>Recent content in Cliente-Servidor on Français</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 22:28:13 +0100</lastBuildDate><atom:link href="https://asagardaw.github.io/practica_Hugo_DWES/fr/clienteservidor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comunicación Cliente-Servidor</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DWES/fr/clienteservidor/cargaweb/</link>
+      <pubDate>Sat, 20 Nov 2021 22:28:13 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DWES/fr/clienteservidor/cargaweb/</guid>
+      <description>Diagrama comunicación Cliente-Servidor Web graph LR; A[Usuario] --B[Navegador] B --|solicita recurso| F(HTTP) --|solicitud a servidor| C{Servidor Apache} B --|solicita recurso| G(HTTPS) --|solicitud a servidor| C C --|construye recurso| I(construcción de recurso) I -- J[MySQL] -- I I -- K[PHP] -- I I --|recurso construido| C C --|recurso HTML+Javascript| B Pasos del proceso de carga web   El proceso que sigue la comunicación cliente-servidor se inicia cuando un usuario hace uso de un navegador web que solicita un recurso al servidor para poder cargar la web.</description>
+    </item>
+  </channel>
+</rss>

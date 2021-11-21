@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://asagardaw.github.io/practica_Hugo_DWES/es/sitemap.xml</loc>
+    
+      <lastmod>2021-11-20T22:28:13+01:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://asagardaw.github.io/practica_Hugo_DWES/en/sitemap.xml</loc>
+    
+      <lastmod>2021-11-20T22:28:13+01:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://asagardaw.github.io/practica_Hugo_DWES/fr/sitemap.xml</loc>
+    
+      <lastmod>2021-11-20T22:28:13+01:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

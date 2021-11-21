@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static on Español</title>
+    <link>https://asagardaw.github.io/practica_Hugo_DWES/static/</link>
+    <description>Recent content in Static on Español</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Nov 2021 13:36:11 +0100</lastBuildDate><atom:link href="https://asagardaw.github.io/practica_Hugo_DWES/static/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teoría</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DWES/static/teor%C3%ADa/</link>
+      <pubDate>Sat, 20 Nov 2021 13:29:29 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DWES/static/teor%C3%ADa/</guid>
+      <description>TEORÍA Indice InstalaciónTemasContenido </description>
+    </item>
+    <item>
+      <title>Práctica</title>
+      <link>https://asagardaw.github.io/practica_Hugo_DWES/static/pr%C3%A1ctica/</link>
+      <pubDate>Sat, 20 Nov 2021 13:36:11 +0100</pubDate>
+      <guid>https://asagardaw.github.io/practica_Hugo_DWES/static/pr%C3%A1ctica/</guid>
+      <description>PRÁCTICA Indice Practica 1Practica 2 </description>
+    </item>
+  </channel>
+</rss>
